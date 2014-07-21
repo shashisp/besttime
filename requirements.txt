@@ -1,0 +1,7 @@
+Django==1.5
+argparse==1.2.1
+httplib2==0.9
+python-instagram==1.1.2
+requests==2.3.0
+simplejson==3.5.3
+wsgiref==0.1.2
